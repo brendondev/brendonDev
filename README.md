@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, PhotoShop, Adobe, Netlify, Wordpress, GitHub.</strong>
+  💼 Tools: <strong>Visual Studio Code, PhotoShop, Adobe, Netlify, Wordpress, Woocommerce, GitHub.</strong>
 </p>
 
 <p align="left">
