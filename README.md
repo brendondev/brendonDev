@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  :pencil2: Skills: <strong>PHP, MySQL, Wordpress, HTML5, CSS, JS, REACT, Design.</strong>
+  :pencil2: Skills: <strong>PHP, MySQL, Wordpress, HTML5, CSS, JS, React, Design.</strong>
 </p>
 
 <p align="left">
