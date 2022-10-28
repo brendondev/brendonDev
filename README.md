@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>-->
 
   <a href="https://api.whatsapp.com/send?phone=5521965285452&text=Ol%C3%A1%2C%20Brendon!%20Vi%20seu%20port%C3%B3lio%20online%2C%20poderia%20me%20falar%20mais%20sobre%20seu%20trabalho%3F" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514991653238&text=Olá%20Iuri,%20tudo%20bem?"/></a>
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521965110269&text=Olá%20Iuri,%20tudo%20bem?"/></a>
 
   <a href="https://www.facebook.com/brwndon/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/iuricode/"/></a>
