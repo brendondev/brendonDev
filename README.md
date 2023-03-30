@@ -40,7 +40,7 @@
 </div>
 
 
-Hey!! I'm Brendon [**@brendondev**](https://twitter.com/vcwild) 💀👻
+Hey!! I'm Brendon [**@brendondev**] 💀👻
 
 I'm pretty much a lifelong learner. I like the idea of **Learning in Public** where I can share my thoughts and knowledge with others through live coding, blogs, discussions, threads and open source contributions.
 
