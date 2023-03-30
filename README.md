@@ -5,7 +5,7 @@
 
     
 <div align="center">
-<b>Web Developer | Fullstack | Daydreamer | :skull:	:ghost:	</b>
+<b>Web Developer | Fullstack | Daydreamer | 💀👻</b>
 <br>
 <br>
 
@@ -40,22 +40,17 @@
 </div>
 
 
-Hey there!! I am Victor, aka [**@brendondev**](https://twitter.com/vcwild) :wave:😊
+Hey!! I'm Brendon [**@brendondev**](https://twitter.com/vcwild) 💀👻
 
-I am pretty much a life long learner. I enjoy the idea of **Learning in Public** where I can share my thoughts and knowledge with other people through live coding, blogging, discussions, threading, and open source contributions.
+I'm pretty much a lifelong learner. I like the idea of **Learning in Public** where I can share my thoughts and knowledge with others through live coding, blogs, discussions, threads and open source contributions.
 
-I have experience with Dev-Ops, Data Science, Data Engineering, Systems Development, and Back-end web programming. My main knowledge in technologies are **Python**, **C/C++**, **Rust**, **Docker**, **Openshift**, **Kubernetes**. I am also comfortable using **Typescript**, **React**, **Elixir**, **Scala**, and **Java**.
+I have experience with Web Development, Database, Back-end web programming development. My main knowledge in technologies are **Html**, **CSS**, **PHP**, **Laravel**, **Javascript**, **PHPMyadmin**.
 
 <div align="right" style="margin:auto">
     <a href="https://wakatime.com/@brendondev">
-        <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=vcwild&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default" alt="Wakatime stats" align="right" />
+        <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=brendondev&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default" alt="Wakatime stats" align="right" />
     </a>
 </div>
-
-My main abilities include designing pretty library APIs, applying software testing methodologies, API modeling following software design principles, and refactoring clunky code into nice abstractions. 
-
-I am currently working as a _Quality Engineer_ for the [Red Hat Insights](https://www.redhat.com/en/technologies/management/insights) program. 
-    
 </details>
 
 ---
