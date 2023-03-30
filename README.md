@@ -1,36 +1,72 @@
-<img src="https://i.imgur.com/6YoDxTE.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-  Hello, my name is Brendon I am <strong>Front-end Developer</strong> and <strong>Design</strong>.<br>
-  I am studying System and System Development for Internet.
-</p>
 
-<p align="left">
-  :pencil2: Skills: <strong>PHP, MySQL, Wordpress, HTML5, CSS, JS, React, Design.</strong>
-</p>
+    
+<h1 align="center"> Victor Wildner </h1>
 
-<p align="left">
-  💼 Tools: <strong>Visual Studio Code, PhotoShop, Adobe, Netlify, Wordpress, Woocommerce, GitHub.</strong>
-</p>
+    
+<div align="center">
+<b>Software Engineer | Streamer | FOSS enthusiast | Daydreamer | 🐍🦀🐧🏳️‍🏴🚩</b>
+<br>
+<br>
 
-<p align="left">
-  💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
-</p>
+<blockquote>
+    <p><i>
+        A cheerful person who enjoys talking and discussing deep topics about human nature and who sincerely believes that we can make the world a better place through education and technology. 🗣️⚛✨🎓
+    </i></p>
+</blockquote>
+</div>
 
-<p align="left">
-  <a href="mailto:brwndonlima@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=iuricodebrasil@gmail.com" /></a>
+<div align="center">
+    <a href="https://twitter.com/intent/follow?screen_name=vcwild">
+        <img src="https://img.shields.io/twitter/follow/vcwild?style=social&logo=twitter"
+        alt="follow on Twitter">
+    </a>
+    <a href="https://www.twitch.tv/vcwild">
+    <img alt="Twitch Status" src="https://img.shields.io/twitch/status/vcwild?style=social">
+    </a>
+</div>
 
-  <!---<a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>-->
+<details closed>
+<summary>About me 👈😊</summary>
 
-  <a href="https://api.whatsapp.com/send?phone=5521965110269&text=Ol%C3%A1%2C%20Brendon!%20Vi%20seu%20port%C3%B3lio%20online%2C%20poderia%20me%20falar%20mais%20sobre%20seu%20trabalho%3F" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521965110269&text=Olá%20Iuri,%20tudo%20bem?"/></a>
+---
 
-  <a href="https://www.facebook.com/brwndon/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/iuricode/"/></a>
 
-  <a href="https://www.instagram.com/brendonetc/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
-</p>  
+<div align="right" style="margin:auto">
+     <a href="https://github.com/vcwild">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcwild&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=27&langs_count=10&theme=transparent&title_color=4a86d1&custom_title=My%20favorite%20languages"
+       alt="Most used languages" align="right">
+    </a>
+</div>
 
+
+Hey there!! I am Victor, aka [**@vcwild**](https://twitter.com/vcwild) :wave:😊
+
+I am pretty much a life long learner. I enjoy the idea of **Learning in Public** where I can share my thoughts and knowledge with other people through live coding, blogging, discussions, threading, and open source contributions.
+
+I have experience with Dev-Ops, Data Science, Data Engineering, Systems Development, and Back-end web programming. My main knowledge in technologies are **Python**, **C/C++**, **Rust**, **Docker**, **Openshift**, **Kubernetes**. I am also comfortable using **Typescript**, **React**, **Elixir**, **Scala**, and **Java**.
+
+<div align="right" style="margin:auto">
+    <a href="https://wakatime.com/@vcwild">
+        <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=vcwild&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default" alt="Wakatime stats" align="right" />
+    </a>
+</div>
+
+My main abilities include designing pretty library APIs, applying software testing methodologies, API modeling following software design principles, and refactoring clunky code into nice abstractions. 
+
+I am currently working as a _Quality Engineer_ for the [Red Hat Insights](https://www.redhat.com/en/technologies/management/insights) program. 
+    
+</details>
+
+---
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/vcwild)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vcwild/)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/vcwild)
+[![Polywork](https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black)](https://www.polywork.com/vcwild)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/vcwild)
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/vcwild)
+
+</div>
