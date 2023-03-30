@@ -1,28 +1,28 @@
 
 
     
-<h1 align="center"> Victor Wildner </h1>
+<h1 align="center"> Brendon Lima </h1>
 
     
 <div align="center">
-<b>Software Engineer | Streamer | FOSS enthusiast | Daydreamer | 🐍🦀🐧🏳️‍🏴🚩</b>
+<b>Web Developer | Fullstack | Daydreamer | 🐍🦀🐧🏳️‍🏴🚩</b>
 <br>
 <br>
 
 <blockquote>
     <p><i>
-        A cheerful person who enjoys talking and discussing deep topics about human nature and who sincerely believes that we can make the world a better place through education and technology. 🗣️⚛✨🎓
+        I'm always on top of technology, enthusiastic and interested in the field of development. Currently working with Laravel, HTML, CSS and Javascript.
     </i></p>
 </blockquote>
 </div>
 
 <div align="center">
-    <a href="https://twitter.com/intent/follow?screen_name=vcwild">
+    <a href="https://twitter.com/intent/follow?screen_name=sensacioshow">
         <img src="https://img.shields.io/twitter/follow/vcwild?style=social&logo=twitter"
         alt="follow on Twitter">
     </a>
-    <a href="https://www.twitch.tv/vcwild">
-    <img alt="Twitch Status" src="https://img.shields.io/twitch/status/vcwild?style=social">
+    <a href="https://www.instagram.com/brndlsv">
+    <img alt="Twitch Status" src="https://img.shields.io/instagram/status/vcwild?style=social">
     </a>
 </div>
 
