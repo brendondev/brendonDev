@@ -5,7 +5,7 @@
 
     
 <div align="center">
-<b>Web Developer | Fullstack | Daydreamer | 🐍🦀🐧🏳️‍🏴🚩</b>
+<b>Web Developer | Fullstack | Daydreamer | :skull:	:ghost:	</b>
 <br>
 <br>
 
@@ -18,16 +18,16 @@
 
 <div align="center">
     <a href="https://twitter.com/intent/follow?screen_name=sensacioshow">
-        <img src="https://img.shields.io/twitter/follow/vcwild?style=social&logo=twitter"
+        <img src="https://img.shields.io/twitter/follow/sensacioshow?style=social&logo=twitter"
         alt="follow on Twitter">
     </a>
-    <a href="https://www.instagram.com/brndlsv">
+<!--     <a href="https://www.instagram.com/brndlsv">
     <img alt="Twitch Status" src="https://img.shields.io/instagram/status/vcwild?style=social">
-    </a>
+    </a> -->
 </div>
 
 <details closed>
-<summary>About me 👈😊</summary>
+<summary>About me 👈:skull:	</summary>
 
 ---
 
