@@ -74,7 +74,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brendondev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true&order=2" height="100" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brendondev&radius=100&theme=nord&area=true&order=5&hide_border=true&hide_title=true" height="160" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brendondev&radius=100&theme=nord&area=true&order=5&hide_border=true&hide_title=true" height="214" alt="activity-graph graph"  />
 </div>
 
 ###
