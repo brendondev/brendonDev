@@ -52,6 +52,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <a href="https://instagram.com/brendonetc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=%E3%85%A4&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
