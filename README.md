@@ -1,4 +1,6 @@
 <p align="center">
+
+
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=brendondev&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=brendondev&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=brendondev&theme=darcula&hide_border=true&background=FFFFFF00">
@@ -11,3 +13,6 @@
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=brendondev&repo=spacePortfolio">
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=brendondev&repo=qr.Code">
 </p>
+
+
+  <img align="right" height="100" style="position: absolute;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RmNHZiMWx3ZndyOWVtNHMzcW1vY2VoaTJ0dmt0Z3BjaXlia204MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2lSNErRCiZPck/giphy.webp"  />
